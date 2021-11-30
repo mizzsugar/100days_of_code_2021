@@ -28,3 +28,4 @@ pub mod day27;
 pub mod day28;
 pub mod day29;
 pub mod day30;
+pub mod day31;
