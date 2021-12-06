@@ -33,3 +33,4 @@ pub mod day32;
 pub mod day33;
 pub mod day34;
 pub mod day35;
+pub mod day36;
