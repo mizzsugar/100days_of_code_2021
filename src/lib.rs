@@ -41,3 +41,4 @@ pub mod day40;
 pub mod day41;
 pub mod day42;
 pub mod day43;
+pub mod day44;
