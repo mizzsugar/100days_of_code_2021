@@ -45,3 +45,4 @@ pub mod day44;
 pub mod day45;
 pub mod day46;
 pub mod day47;
+pub mod day48;
