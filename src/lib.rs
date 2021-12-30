@@ -48,3 +48,4 @@ pub mod day47;
 pub mod day48;
 pub mod day49;
 pub mod day50;
+pub mod day51;
