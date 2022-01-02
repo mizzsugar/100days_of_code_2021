@@ -51,3 +51,4 @@ pub mod day50;
 pub mod day51;
 pub mod day52;
 pub mod day53;
+pub mod day54;
