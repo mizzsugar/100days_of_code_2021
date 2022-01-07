@@ -6,7 +6,7 @@ fn solve(a: u128, b: u128) -> String {
     if ans > 10_u128.pow(18) {
         return String::from("Large")
     }
-    String::from("{}", ans)
+    ans.to_string()
 }
 
 #[cfg(test)]
