@@ -62,3 +62,4 @@ pub mod day61;
 pub mod day62;
 pub mod day63;
 pub mod day64;
+pub mod day65;
