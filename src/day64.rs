@@ -1,4 +1,4 @@
-// https://atcoder.jp/contests/typical90/tasks/typical90_bi
+// https://atcoder.jp/contests/typical90/tasks/typical90_bl
 
 
 fn solve(a: Vec<i64>, lrv: Vec<[i64; 3]>) -> Vec<i64> {
