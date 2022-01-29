@@ -1,6 +1,8 @@
 // https://atcoder.jp/contests/typical90/tasks/typical90_ca
 
-fn solve(mut a: Vec<Vec<i64>>, b: Vec<<i64>>) -> i64 {
+fn solve(mut a: Vec<Vec<i64>>, b: Vec<Vec<i64>>) -> i64 {
+    let h = a.len();
+    let w = b.len();
     for i in 0..h {
         for j in 0..w {
             a[i][j] -= b[i][j];
@@ -24,9 +26,8 @@ fn solve(mut a: Vec<Vec<i64>>, b: Vec<<i64>>) -> i64 {
     }
     return -1
 }
-0 0 0
-0 1 0
-0 0 0
+
+
 #[cfg(test)]
 mod tests {
     use super::solve;
