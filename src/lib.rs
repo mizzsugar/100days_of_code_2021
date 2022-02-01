@@ -71,3 +71,4 @@ pub mod day70;
 pub mod day71;
 pub mod day72;
 pub mod day73;
+pub mod day74;
