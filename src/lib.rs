@@ -89,3 +89,4 @@ pub mod day88;
 pub mod day89;
 pub mod day90;
 pub mod day91;
+pub mod day92;
