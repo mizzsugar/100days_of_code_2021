@@ -96,3 +96,4 @@ pub mod day95;
 pub mod day96;
 pub mod day97;
 pub mod day98;
+pub mod day99;
